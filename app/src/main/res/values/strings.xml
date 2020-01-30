@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NotificationTester</string>
+    <string name="urgent">Urgent</string>
+    <string name="high">High</string>
+    <string name="normal">Normal</string>
+    <string name="low">Low</string>
+    <string name="title">Title</string>
+    <string name="inpHeaderHint">Notification Title</string>
+    <string name="urgency">Urgency</string>
+    <string name="inpContentHint">Notification Text</string>
+    <string name="content">CONTENT</string>
+    <string name="send_notification">SEND NOTIFICATION</string>
+    <string name="min">Minimum</string>
+    <string name="channelname">ntestermain</string>
+    <string name="channeldesc">The main Notification channel for the Notification Tester.</string>
+    <string name="style">Style</string>
+</resources>
